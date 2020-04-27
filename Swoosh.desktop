@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type = Application
+Name = Swoosh
+Exec = /usr/bin/swoosh-keyboard-disable.sh
+Icon = /usr/share/icons/swoosh-icon.jpg
