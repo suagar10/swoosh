@@ -12,7 +12,7 @@ Works fine on Ubuntu machines.
    sudo cp ~/Downloads/swoosh/Swoosh.desktop /usr/share/applications/
    sudo cp ~/Downloads/swoosh/swoosh-keyboard-disable.sh /usr/bin/
    cd /usr/bin/
-   chmod +x swoosh-keyboard-disable.sh
+   sudo chmod +x swoosh-keyboard-disable.sh
    sudo cp ~/Downloads/swoosh/swoosh-icon.jpg /usr/share/icons/
    ```
 4. You are ready to go! Use the script from the apps menu
